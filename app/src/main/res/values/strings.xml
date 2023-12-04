@@ -1,0 +1,316 @@
+<resources>
+    <string name="app_name">Menu-Resep</string>
+    <string name="heroes_name">Menu Resep</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string-array name="data_name">
+        <item>Oseng Teri Kentang</item>
+        <item>Cah Kangkung Cumi</item>
+        <item>Kerang Lempah Kuning</item>
+        <item>Ayam Gepuk Sambal Terasi</item>
+        <item>Tongseng Sapi Tanpa Santan</item>
+        <item>Gulai Nangka Padang</item>
+        <item>Tumis Uang Terong Ungu</item>
+        <item>Gulai Daun Singkong Leunca</item>
+        <item>Rolade Daun Singkong</item>
+        <item>Ayam Jerit</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Oseng Teri Kentang ini memiliki rasa yang lezat dan sangat nikmat disajikan bersama nasi hangat karena digoreng bersama dengan bumbu dan rempah-rempah.
+
+          <![CDATA[
+            <b>Bahan:</b><br/>
+            - 3 buah kentang<br/>
+            - 150 gr ikan teri asin<br/>
+            - Garam, gula, dan kaldu bubuk secukupnya<br/>
+            <br/>
+            <b>Bumbu iris:</b><br/>
+            - 7 siung bawang merah<br/>
+            - 3 siung bawang putih<br/>
+            - 5 buah cabai merah<br/>
+            - 8 buah cabai rawit merah<br/>
+            - 2 batang daun bawang<br/>
+            <br/>
+            <b>Cara membuat:</b><br/>
+            1. Kupas kentang, lalu potong dadu dan goreng hingga matang. Sisihkan.<br/>
+            2. Kemudian bilas ikan teri lalu goreng hingga matang. Sisihkan.<br/>
+            3. Panaskan sedikit minyak lalu tumis bawang merah dan bawang putih hingga harum. Kemudian masukkan cabai dan tumis hingga harum.<br/>
+            4. Masukkan kentang, ikan teri, dan daun bawang. Lalu bumbui dengan garam, gula dan kaldu bubuk secukupnya. Aduk rata.<br/>
+            5. Jangan lupa koreksi rasa, jika sudah pas angkat dan siap disajikan.
+            ]]>
+        </item>
+        <item>
+            Salah satu jenis seafood yang bisa dimasak dengan simpel dan nggak ribet adalah cumi. Seafood satu ini cocok dikreasikan dengan beragam bahan, salah satunya kangkung.
+
+            Bahan:
+            - 1 ikat kangkung
+            - 1 ekor cumi
+            - 1/2 sdm fibercreme
+
+            Bumbu uleg kasar:
+            - 4 siung bawang putih
+            - 1 butir kemiri
+            - 10 buah cabai rawit
+
+            Bumbu pelengkap:
+            - Saus tiram
+            - Penyedap jamur
+            - Garam
+
+            Cara membuat:
+            1. Siangi kangkung lalu cuci bersih dan tiriskan.
+            2. Bersihkan cumi lalu potong cincin.
+            3. Panaskan minyak lalu goreng cumi sampai matang, angkat sisihkan.
+            4. Tumis bumbu uleg sampai wangi lalu masukkan kangkung dan cumi yang sudah digoreng tadi.
+            5. Besarkan api lalu tumis cepat, masukkan saus tiram, garam dan penyedap jamur secukupnya. Aduk rata.
+            6. Aduk rata fibercreme dengan sedikit air hangat lalu tuang ke dalam tumisan.
+            7. Jangan lupa koreksi rasa, bila sudah pas angkat dan siap disajikan.
+        </item>
+        <item>
+            Kerang Lempah Kuning adalah hidangan yang sangat lezat dan menggugah selera. Rasa pedas dari cabai rawit dan kelezatan kerang segar akan membuat lidah Anda terpuaskan.
+
+            Bahan:
+            - 800 gr kerang segar
+            - 10 cabai rawit utuh
+            - 1 buah tomat
+            - 850 ml air
+            - 1 jempol lengkuas, geprek
+            - 2 batang serai, geprek
+            - 1 sdm asam jawa, campur sedikit air, remas, dan buang ampasnya
+            - Garam dan gula secukupnya
+
+            Bumbu halus:
+            - 8 siung bawang merah
+            - 1 jempol kunyit, bakar terlebih dahulu
+            - 10 cabai rawit
+            - 2 cabai keriting
+            - 1 sdt terasi
+
+            Cara membuat:
+            1. Cuci bersih kerang, sikat bagian cangkangnya dan bilas diair mengalir. Kemudian sisihkan.
+            2. Siapkan panci, kemudian rebus air hingga mendidih, lalu masukkan bumbu halus, serai dan lengkuas. Masak hingga bau langu hilang.
+            3. Kemudian masukkan kerang, air asam, gula dan garam secukupnya, lalu tutup panci dan masak selama 10 menit.
+            4. Terakhir masukkan potongan tomat dan cabai butir, jangan lupa koreksi rasa.
+            5. Angkat dan siap disajikan.
+        </item>
+        <item>
+            Gepuk adalah makanan khas sunda yang terbuat dari daging sapi, rasanya sedikit manis dan gurih. Namun ternyata ayam pun bisa dibuat gepuk lho Sweet Couple.
+
+            Bahan:
+            - 500 gr ayam, potong menjadi 4 bagian
+            - Air untuk merebus ayam secukupnya
+            - 2 sdm bubuk fibercreme larutkan dengan 200 ml air
+
+            Bumbu ungkep ayam dihaluskan:
+            - 500 gr ayam
+            - 7 butir bawang Putih
+            - 3 ruas kunyit
+            - 1 Ruas jahe
+            - 3 siung bawang merah
+            - 1 siung kemiri
+            - 1 sdt ketumbar
+            - 2-3 sdt garam
+
+            Bahan sambel, haluskan:
+            - 10 cabai merah keriting
+            - 5 cabai hijau keriting
+            - 1 sdt terasi
+            - 10 kacang mete goreng
+            - 15 cabai rawit
+            - 7 siung bawang putih
+            - 3 siung bawang merah
+            - 4 sdm minyak panas
+            - Garam dan gula secukupnya
+
+            Cara membuat:
+            1. Rebus air sampai mendidih, lalu masukkan larutan fibercreme, bumbu ungkep dan ayam. Rebus sampai ayam matang dan bumbu meresap. Angkat.
+            2. Goreng ayam sampai berwarna kuning keemasan, lalu angkat dan tiriskan.
+            3. Uleg kasar bahan sambel, tambahkan garam dan gula sesuai selera. Kemudian tambahkan minyak panas. Aduk rata.
+            4. Letakkan ayam di atas cobek dan siap disajikan.
+        </item>
+        <item>
+            Penggemar Tongseng, tapi ingin mengurangi asupan santan? Jangan khawatir, coba resep Tongseng Sapi tanpa santan. Rasa kuah dengan bumbu rempah yang kaya dan gurih.
+
+            Bahan:
+            - 1/4 kg daging sapi, iris tipis
+            - Kol secukupnya
+            - 1 buah tomat
+            - 10 cabai rawit
+            - Daun bawang secukupnya
+            - 1 lembar daun salam
+            - 1 batang serai
+            - 2 sdm kecap manis
+            - 2 sdm minyak sayur
+            - 500 ml air matang
+            - 1/2 sdt kaldu bubuk sapi
+
+            Bumbu halus:
+            - 6 siung bawang merah
+            - 3 siung bawang putih
+            - 1/4 sdt merica
+            - 1 cm jahe
+            - 2 butir kemiri
+
+            Cara membuat:
+            1. Tumis bumbu yang telah dihaluskan, tambahkan daun salam dan serai, aduk hingga wangi.
+            2. Lalu masukkan daging sapi yang telah diiris tipis hingga berwarna kecokelatan, kemudian masukkan air dan tutup wajan supaya dagingnya empuk.
+            3. Setelah daging empuk lalu beri kaldu sapi dan kecap manis aduk rata.
+            4. Masukkan kol, cabai rawit, dan tomat. Aduk rata lalu angkat.
+            5. Sajikan dengan taburan daun bawang di atasnya.
+        </item>
+        <item>
+            Gulai nangka Padang menggabungkan cita rasa lezat khas Sumatera Barat dalam satu hidangan yang unik. Dengan menggunakan nangka muda yang dimasak dalam kuah gulai.
+
+            Bahan:
+            - 3 keping nangka muda
+            - 50 gr udang kering atau ebi, rendam air panas dan tumbuk kasar
+            - 75 gr fibercreme
+
+            Bumbu halus:
+            - 8 siung bawang merah
+            - 3 siung bawang putih
+            - 8 cabai keriting
+            - 2 cm lengkuas
+            - 2 cm kunyit
+            - 3 butir kemiri
+
+            Bumbu padang:
+            - 1 sdt ketumbar bubuk
+            - 1/2 sdt jinten bubuk
+            - Sedikit pala
+            - 1 bunga lawang
+            - 2 butir kapulaga
+            - 2 lembar daun salam
+            - 1 batang serai, geprek
+            - Garam dan gula secukupnya
+            - Penyedap rasa atau kaldu totole
+            - Merica secukupnya
+
+            Cara membuat:
+            1. potong dan rebus dengan sedikit garam dan minyak sayur. Lalu bilas dan tiriskan.
+            2. Tumis bumbu dengan minyak hingga wangi, lalu masukkan udang kering, daun salam, serai, lalu tumis hingga matang.
+            3. Masukkan bumbu rendang, aduk rata. Lalu masukkan nangka dan beri bumbu garam, gula dan penyedap jamur.
+            4. Tambahkan air secukupnya, masak nangka hingga empuk dan air menyusut. Masukkan fibercreme, aduk rata dan biarkan mendidih sebentar.
+            5. Jangan lupa koreksi rasa. Angkat sajikan.
+        </item>
+        <item>
+            Dengan perpaduan udang yang kenyal dan terong ungu yang lembut, Tumis Udang Terong Ungu adalah pilihan yang sempurna. Dengan perpaduan udang yang kenyal dan terong ungu.
+
+            Bahan:
+            - 200 gr udang kupas
+            - 2 buah terong ungu, kupas kulitnya lalu potong dadu
+            - 2 papan pete, belah dua
+            - Garam, gula, dan penyedap secukupnya
+            - 2 cabai keriting, iris serong
+            - 1 siung bawang putih, iris tipis
+            - 4 butir bawang merah, iris tipis
+
+            Bumbu halus:
+            - 15 cabai rawit
+            - 5 cabai keriting
+            - 1 siung bawang putih
+            - 5 siung bawang merah
+
+            Cara membuat:
+            1. Tumis bumbu halus, lalu beri sedikit air dan masak hingga wangi.
+            2. Masukkan udang, irisan cabai, bawang merah dan bawang putih, lalu tambahkan terong dan air secukupnya, masak sampai terong layu.
+            3. Tambahkan gula, garam dan kaldu bubuk secukupnya, lalu aduk merata hingga kuah menyusut dan jangan lupa cek rasa.
+            4. Terakhir masukkan pete, lalu aduk sebentar. Angkat sajikan.
+        </item>
+        <item>
+            Daun Singkong pastinya selalu jadi kesukaan siapa saja ketika bertandang ke restoran Padang atau rumah makan pada umunya sayuran ini selalu ada tersaji.
+
+            Bahan:
+            - 1 ikat daun singkong
+            - 100 gr leunca
+            - 50 gr teri nasi kering
+            - 2 papan pete
+            - 65 ml santan kental
+            - 500 ml air
+
+            Bumbu halus:
+            - 8 siung bawang merah
+            - 4 siung bawang putih
+            - 15 cabai rawit
+            - 1 ruas kunyit
+            - 2 butir kemiri
+            - 1/2 sdt ketumbar
+
+            Bumbu utuh:
+            - 2 lembar daun salam
+            - 2 ruas lengkuas
+
+            Bumbu pelengkap:
+            - 1 sdm garam
+            - 2 sdt gula pasir
+
+            Cara membuat:
+            1. Siangi daun singkong, pilih daun yang muda, lalu cuci bersih kemudian rebus dalam air mendidih selama 15 menit.
+            2. Tambahkan 1 sdm garam, balik 1 kali, lalu angkat dan tiriskan, sisihkan.
+            3. Setelah daun singkong dingin, peras airnya, dalam posisi gumpalan, iris tipis.
+            4. Haluskan bumbu kemudian tumis hingga matang, lalu masukkan daun salam dan lengkuas, aduk rata.
+            5. Masukkan santan dan air, tambahkan perasa dan tunggu hingga mendidih.
+            5. Kemudian masukkan daun singkong, leunca, pete dan ebi. Aduk merata, tunggu sampai bumbu meresap.
+        </item>
+        <item>
+            Rolade daun singkong adalah lauk makanan khas dari Jawa Tengah. Beda dengan rolade daging, rolade daun singkong ini menggunakan campuran tahu dan daun singkong rebus.
+
+            Bahan:
+            - 1 ikat daun singkong
+            - 1 bungkus tahu putih, hancurkan
+            - 1 butir telur, kocok lepas
+            - Garam dan kaldu bubuk
+
+            Bumbu halus:
+            - 2 siung bawang putih
+            - 2 siung bawang merah
+            - 1/4 sdt merica
+            - Ketumbar secukupnya
+
+            Cara membuat:
+            1. Rebus daun singkong sampai lunak, kemudian peras dan iris tipis. Sisihkan.
+            2. Campurkan bumbu halus dengan daun singkong yang sudah di rebus dan tahu yang sudah di hancurkan.
+            3. Tambahkan garam dan kaldu bubuk, aduk sampai rata.
+            4. Kepal-kepal dan bentuk bulat-bulat sampai padat.
+            5. Celupkan ke dalam kocokan telur, kemudian goreng hingga matang. Angkat dan sajikan.
+        </item>
+        <item>
+            Ayam Jerit merupakan hidangan ayam suwir dengan bumbu sambal yang pedas dan gurih. Cocok untuk teman makan nasi apa lagi dengan ditemani lalapan segar.
+
+            Bahan:
+            - 450 gr dada ayam
+            - Air jeruk nipis
+            Bumbu halus:
+            - 100 gr cabai kriting dan rawit
+            - 1 tomat, buang bijinya
+            - 10 siung bawang merah
+            - 5 siung bawang putih
+            - Seruas kencur dan kunyit
+            - 3 butir kemiri
+            Bahan pelengkap:
+            - Daun jeruk
+            - Saus tiram secukupnya
+            - Garam, lada, dan gula secukupnya
+            - Minyak goreng
+            Cara membuat:
+            1. Cuci bersih ayam, lalu lumuri dengan ai jeruk nipis dan garam. Biarkan selama 30 menit, kemudian goreng hingga matang, lalu angkat dan suwir-suwir.
+            2. Panaskan 2 sendok makan minyak sisa menggoreng ayam tadi, lalu tumis bumbu halus dengan api kecil sampai bau langu hilang.
+            3. Masukkan daun jeruk dan ayam suwir, kemudian bumbui dengan saus tiram, gula, lada dan garam secukupnya. Aduk hinggs bumbu meresap.
+            4. Koreksi rasa, sebelum diangkat kucuri dengan air jeruk nipis. Angkat dan sajikan.
+        </item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://cdn-brilio-net.akamaized.net/webp/news/2023/03/19/251286/1983118-1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/news/2023/03/19/251286/1983117-1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/news/2023/03/19/251286/1983119-1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/news/2023/03/19/251286/1983121-1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/real/2023/03/19/1983120/1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/real/2023/03/19/1983124/1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/real/2023/03/19/1983122/1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/real/2023/03/19/1983123/1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/real/2023/03/19/1983127/1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/webp/real/2023/03/19/1983125/1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg</item>
+    </string-array>
+</resources>
